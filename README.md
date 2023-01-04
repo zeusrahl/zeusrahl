@@ -1,7 +1,9 @@
-### Welcome to my GitHub! Please, check out some of my projects.
+### Welcome to my GitHub! Feel free to look through some of my projects I built.
 
 ## About me
-I am a simple father looking to start a career in coding. I have a passion for education and mathematics. In my spare time, I like to sit down and play board games with family and friends. In fact, my next project will include a catalogue and API of boardgames, similar to my [Angular myFlix](https://github.com/zeusrahl/myFlix-Angular-client) and [React myFlix](https://github.com/zeusrahl/myFlix-Client) app.
+I am a simple father looking to start a career in coding. I have a passion for education and mathematics. In my spare time, I like to sit down and play board games with family and friends. 
+
+I currently work on developing a Web App to assist teachers in Standards Based Grading, focusing my skills on developing back-end code to set, get, update, and delete data from our NoSQL database.
 <!--
 **zeusrahl/zeusrahl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
